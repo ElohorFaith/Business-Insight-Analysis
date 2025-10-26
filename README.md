@@ -1,7 +1,7 @@
 #Sales Insights Dashboard
 This Excel project examined sales data, it transformed raw transaction data into easily understandable business insights which included finding trends in revenue, customer behavior and product performance.
 
-#About the Project
+#About the Project:
 It’s one of my projects in my data analysis projects portfolio. It analyzes sales data to see which products, regions and customer types are driving the business.
 
 #Key Questions Answered
