@@ -11,14 +11,14 @@ It’s one of my projects in my data analysis projects portfolio. It analyzes sa
 4.	Find the total amount of revenue generated from each product category to different customer segments.
 5.	Find the total amount of revenue generated from each payment method.
    
-#My Approach
+#My Approach:
 I used Microsoft Excel to clean, summarize and visualize the data through pivot tables, formulas, and charts. Each of the insights was designed to tell a story that helped shape sales strategy and decision-making.
 
 #Files Included
 1.	Business Insight Analysis Project.xlsx
 2.	Business Insight Dashboard Preview.png
    
-#Key Takeaways
+#Key Takeaways:
 This project highlights my ability to:
 1.	Transform raw sales data into actionable insights  
 2.	Design an interactive Excel dashboard.
